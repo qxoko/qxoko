@@ -2,7 +2,7 @@
 I'm a multidisciplinary artist, animator and programmer.  You can see my work on [Twitter](https://twitter.com/qxoko), [Instagram](https://instagram.com/qxoko) or my fledgling [portfolio/blog/wiki thing](https://qxoko.io).  I also enjoy industrial design, architecture and UI/UX exploration.  My day job involves systems administration.  You guys are probably here for code though, so I'll dedicate the rest of this to that instead.
 
 ### 💼 Actual projects
-- [Cobweb](https://github.com/qxoko/cobweb), a fast single-binary static site builder [alpha].
+- [Spindle](https://github.com/qxoko/spindle), a fast single-binary static site builder.
 - Meander, a Fountain renderer for plain-text screenwriters [alpha].
 - ...and some more things that aren't really worth showing off yet.
 
