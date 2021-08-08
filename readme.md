@@ -3,7 +3,7 @@ I'm a multidisciplinary artist, animator and programmer.  You can see my work on
 
 ### 💼 Actual projects
 - [Cobweb](https://github.com/qxoko/cobweb), a fast single-binary static site builder [alpha].
-- [Meander](https://github.com/qxoko/meander), a Fountain renderer for plain-text screenwriters [alpha].
+- Meander, a Fountain renderer for plain-text screenwriters [alpha].
 - ...and some more things that aren't really worth showing off yet.
 
 ### 🌱 I’m currently learning
