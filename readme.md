@@ -3,6 +3,7 @@ I'm a multidisciplinary artist, animator and programmer.  You can see my work on
 
 <details>
 <summary></summary>
+
 ### 💼 Actual projects
 - [Spindle](https://github.com/qxoko/spindle), a fast single-binary static site builder.
 - Meander, a Fountain renderer for plain-text screenwriters [alpha].
@@ -11,4 +12,5 @@ I'm a multidisciplinary artist, animator and programmer.  You can see my work on
 ### 🚀 In future...
 - More hardware hacking and microcontroller stuff
 - Tools for animation, project management and note taking.
+
 </details>
