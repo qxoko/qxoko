@@ -2,7 +2,7 @@
 
 I'm Harley. At some point, several years ago, someone gave me a computer and now I make all kinds of useless stuff.
 
-I consider myself a creative who writes software to help them create.  In practice, I end up spending more time writing creative software than actually doing the any creating.  I need to work on that.
+I consider myself a creative who writes software to help them create.  In practice however, I end up spending more time writing creative software than actually doing any creating.  I need to work on that.
 
 ## My Software
 
