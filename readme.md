@@ -37,3 +37,5 @@ They can be stored or installed anywhere and carry their own documentation entir
 ## Support
 
 If you find my work useful, please do [say thanks](https://ko-fi.com/qxoko).  I could use the encouragement.
+
+[<img height="40px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png">](https://ko-fi.com/qxoko)
