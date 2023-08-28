@@ -2,7 +2,7 @@
 
 I'm Harley. At some point, several years ago, someone gave me a computer and now I make all kinds of useless stuff.
 
-I'm also a fledgeling animator and filmmaker who also writes software to help with those other things.
+I'm also a fledgeling animator and artist who writes software to help with those other things.
 
 ## My Software
 
