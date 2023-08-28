@@ -2,14 +2,14 @@
 
 I'm Harley. At some point, several years ago, someone gave me a computer and now I make all kinds of useless stuff.
 
-I consider myself a creative who writes software to help them create.  In practice however, I end up spending more time writing creative software than actually doing any creating.  I need to work on that.
+I'm also a fledgeling animator and filmmaker who also writes software to help with those other things.
 
 ## My Software
 
 - 🧵 **[Spindle](https://github.com/qxoko/spindle)** builds websites without frameworks or gigabytes of un-auditable modules.
 - 🍱 **[Sous Chef](https://github.com/qxoko/souschef)** manages rendering for large Blender projects.
-- 📝 **Meander** creates production-quality screenplays and manuscripts. (Coming soon!)
-- ⏳ **Metronome** helps calculate time for editing and scoring film. (Coming soon!)
+- 📝 **Meander** creates production-quality screenplays and manuscripts in plain-text. (Coming soon!)
+- ⏳ **Metronome** helps calculate time and timecode for editing and scoring film. (Coming soon!)
 
 ## Philosophy
 <details>
