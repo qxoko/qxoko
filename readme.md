@@ -6,9 +6,9 @@ I'm also a fledgeling animator and artist who writes software to help with those
 
 ## My Software
 
-- 🧵 **[Spindle](https://github.com/qxoko/spindle)** builds websites without frameworks or gigabytes of un-auditable modules.
+- 📝 **[Meander](https://github.com/qxoko/meander)** creates production-quality screenplays and manuscripts in plain-text.
 - 🍱 **[Sous Chef](https://github.com/qxoko/souschef)** manages rendering for large Blender projects.
-- 📝 **Meander** creates production-quality screenplays and manuscripts in plain-text. (Coming soon!)
+- 🧵 **[Spindle](https://github.com/qxoko/spindle)** builds websites without frameworks or gigabytes of un-auditable modules.
 - ⏳ **Metronome** helps calculate time and timecode for editing and scoring film. (Coming soon!)
 
 ## Philosophy
