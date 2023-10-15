@@ -3,6 +3,7 @@ I'm Harley. At some point, several years ago, someone gave me a computer and now
 - 📝 **[Meander](https://github.com/qxoko/meander)** creates production-quality screenplays and manuscripts in plain-text.
 - 🍱 **[Sous Chef](https://github.com/qxoko/souschef)** manages rendering for large Blender projects.
 - 🧵 **[Spindle](https://github.com/qxoko/spindle)** builds websites without frameworks or gigabytes of un-auditable modules.
+- 🕹️ **Lena** is a tiny, cross-platform toolkit for making neat little games.
 - ⏳ **Metronome** helps calculate time and timecode for editing and scoring film. (Coming soon!)
 
 If you find my work useful, please do [say thanks](https://ko-fi.com/qxoko).  I could use the encouragement.
